@@ -1,0 +1,66 @@
+{
+    "name": "Public Insight Network",
+    "description": "Read more about us from Current magazine: http:\/\/www.current.org\/news\/news1102publicinsight.html",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1823-publicinsight.jpg",
+    "tags": [
+        "content",
+        "have api",
+        "news",
+        "questions"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/public-insight-network\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Public Insight Network",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1823-publicinsight.jpg",
+            "humanURL": "http:\/\/www.publicinsightnetwork.org\/api-documentation\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/public-insight-network-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/public-insight-network-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/public-insight-network"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/public-insight-network"
+        },
+        {
+            "type": "Email",
+            "url": "support@publicinsightnetwork.org"
+        },
+        {
+            "type": "Email",
+            "url": "partner@publicinsightnetwork.org"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/publicinsightnetwork"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/publicinsight"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.publicinsightnetwork.org\/api-documentation\/"
+        }
+    ]
+}
